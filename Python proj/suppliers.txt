@@ -1,0 +1,4 @@
+Supplier Code|Supplier Name|Contact Info|Address
+S1|Supplier A|03-2164 8500|2, Jalan Tun Sambanthan, Kuala Lumpur, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+S2|Supplier B|03-2260 1000|160, Jalan Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+S3|Supplier C|03-8996 1000|3, Jalan Sultan Ismail, Kuala Lumpur, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur

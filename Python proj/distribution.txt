@@ -1,0 +1,12 @@
+Item Code|Hospital Code|Quantity|Supplier Code
+HC|H1|30|S1
+FS|H2|10|S2
+MS|H3|10|S3
+MS|H1|20|S3
+GL|H2|20|S1
+GW|H3|10|S2
+GW|H2|15|S2
+GW|H1|20|S2
+SC|H1|10|S3
+FS|H2|30|S2
+MS|H1|20|S3
