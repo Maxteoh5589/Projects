@@ -1,4 +1,0 @@
-Hospital Code|Hospital Name|Contact Info|Address
-H1|Pantai Hospital Kuala Lumpur|03-2296-0888|Pantai Hospital Kuala Lumpur, 8, Jalan Bukit Pantai, Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur
-H2|Kuala Lumpur Hospital|03-2615-5555|Kuala Lumpur Hospital, Jalan Pahang, 50586 Kuala Lumpur, Federal Territory of Kuala Lumpur
-H3|Sunway Medical Center|03-9772-9191|Sunway Medical Centre Velocity (SMCV), Pusat Perubatan Sunway Velocity, Lingkaran Sunway Velocity, Sunway Velocity, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur

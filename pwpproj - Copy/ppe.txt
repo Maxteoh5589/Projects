@@ -1,7 +1,0 @@
-Item Code|Item Name|Quantity|Supplier Code
-HC|Head Cover|70|S1
-FS|Face Shield|100|S2
-MS|Mask|100|S3
-GL|Gloves|100|S1
-GW|Gown|100|S2
-SC|Shoe Covers|100|S3
